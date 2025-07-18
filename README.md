@@ -197,6 +197,8 @@ order by  Order_Priority,Ship_Mode desc
 **Insight:** 
 The company did not align shipping methods with order priority. High-priority orders often used slower Delivery Truck services instead of Express Air, while low-priority orders unnecessarily incurred high Express Air costs. This mismatch led to inefficient shipping spend, suggesting a need to revise logistics policies based on order urgency.
 
+## File
+[View sql file](KMS_Project.sql)
 
 
 
